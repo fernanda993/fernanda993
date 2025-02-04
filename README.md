@@ -47,10 +47,10 @@ Acompanhe minha trajetoria pelos portais.
 💼 [**LinkedIn**](www.linkedin.com/in/fernanda-sousa-farias)  
 🖥️ [**Portfólio Online**](#)
 <!-- 📊 [**Kaggle**](https://www.kaggle.com/seuperfil)  -->
----
+
 ⭐ Se gostou do meu trabalho, me siga aqui no **GitHub** e vamos colaborar! 🚀
 
-<--
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
