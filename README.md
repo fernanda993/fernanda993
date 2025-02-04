@@ -50,7 +50,7 @@ Ajudo empresas a transformar dados em decisões inteligentes!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Google Colab](https://colab.research.google.com/drive/1WYxmu4bTNCKkTXmxhHhE_nRPfG_SUU7n#scrollTo=hM4PfZiy5JAS)  
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) [**1º Projeto**](https://colab.research.google.com/drive/1WYxmu4bTNCKkTXmxhHhE_nRPfG_SUU7n#scrollTo=hM4PfZiy5JAS)  
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernanda993&show_icons=true&theme=radical)  
